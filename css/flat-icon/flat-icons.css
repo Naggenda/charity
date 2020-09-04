@@ -4,7 +4,7 @@ Flaticon icon font: Flaticon
 @font-face {
 	font-family: "Flaticon";
 	src: url("../../assets/fonts/flat-icons/Flaticon.eot");
-	src: url("../../assets/fonts/flat-icons/Flaticon.eot?#iefix") format("embedded-opentype"),
+	src: url("../../assets/fonts/flat-icons/Flaticon.eot") format("embedded-opentype"),
 	url("../../assets/fonts/flat-icons/Flaticon.woff2") format("woff2"),
 	url("../../assets/fonts/flat-icons/Flaticon.woff") format("woff"),
 	url("../../assets/fonts/flat-icons/Flaticon.ttf") format("truetype"),
@@ -16,7 +16,7 @@ Flaticon icon font: Flaticon
 @media screen and (-webkit-min-device-pixel-ratio:0) {
 	@font-face {
 		font-family: "Flaticon";
-		src: url("../../assets/fonts/flat-icons/Flaticon.svg#Flaticon") format("svg");
+		src: url("../../assets/fonts/flat-icons/Flaticon.svg") format("svg");
 	}
 }
 [class^="flaticon-"]:before, [class*=" flaticon-"]:before,
