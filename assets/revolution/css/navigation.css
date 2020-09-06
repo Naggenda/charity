@@ -758,7 +758,7 @@ website:    http://www.themepunch.com
       font-size:13px;
       font-weight:700;
       text-transform:uppercase;
-      font-family:"Roboto Slab"
+      font-family:"Roboto Slab";
       margin-bottom:5px;
   }
   
@@ -1419,7 +1419,7 @@ website:    http://www.themepunch.com
       font-size:13px;
       font-weight:700;
       text-transform:uppercase;
-      font-family:"Roboto Slab"
+      font-family:"Roboto Slab";
       margin-bottom:5px;
   }
   
@@ -2162,8 +2162,8 @@ website:    http://www.themepunch.com
       position:absolute;
       width:100%;
       height:100%;
-      background:#transparent;
-      padding:10px;
+      background: transparent;
+      padding: 0px;
       margin-left:-10px;margin-top:-10px;
       box-sizing:content-box;
   }
