@@ -2256,7 +2256,7 @@ About Area Area CSS
 }
 
 .about-img-two {
-  background-image: url(../img/about/about-image.jpg);
+  background-image: url("../assets/img/about/about-image.jpg");
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -3063,7 +3063,7 @@ Mission Area CSS
 }
 
 .mission-image {
-  background-image: url(../../assets/img/mission.png);
+  background-image: url("../assets/img/white-shape.png");
   background-size: cover;
   background-position: center center;
   height: 100%;
@@ -3075,7 +3075,7 @@ Mission Area CSS
 
 .mission-area {
   position: relative;
-  background-image: url(../../assets/img/mission-2.png);
+  background-image: url("../assets/img/mission-2.png");
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
@@ -3101,7 +3101,7 @@ Mission Area CSS
 }
 
 .mission-bg {
-  background-image: url(../../assets/img/mission-2.png);
+  background-image: url("../assets/img/mission-2.png");
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
@@ -3516,7 +3516,7 @@ Events Area CSS
 =================================================*/
 .event-section {
   position: relative;
-  background-image: url(../../assets/img/event-bg.jpg);
+  background-image: url("../assets/img/event-bg.jpg");
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
