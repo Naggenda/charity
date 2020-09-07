@@ -2256,7 +2256,7 @@ About Area Area CSS
 }
 
 .about-img-two {
-  background-image: url(../img/about/about-image.jpg);
+  background-image: url("../assets/img/about/about-image.jpg");
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -3075,7 +3075,7 @@ Mission Area CSS
 
 .mission-area {
   position: relative;
-  background-image: url(../../assets/img/mission-2.png);
+  background-image: url("../assets/img/mission-2.png");
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;

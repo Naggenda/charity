@@ -4,12 +4,11 @@ Flaticon icon font: Flaticon
 @font-face {
 	font-family: "Flaticon";
 	src: url("../../assets/fonts/flat-icons/Flaticon.eot");
-	src: url("../../assets/fonts/flat-icons/Flaticon.eot") format("embedded-opentype"),
+	src: url("../../assets/fonts/flat-icons/Flaticon.eot?#iefix") format("embedded-opentype"),
 	url("../../assets/fonts/flat-icons/Flaticon.woff2") format("woff2"),
 	url("../../assets/fonts/flat-icons/Flaticon.woff") format("woff"),
 	url("../../assets/fonts/flat-icons/Flaticon.ttf") format("truetype"),
-    url("../../assets/fonts/flat-icons/Flaticon.svg") format("svg");
-
+    url("../../assets/fonts/flat-icons/Flaticon.svg#Flaticon") format("svg");
 	font-weight: normal;
 	font-style: normal;
 }
@@ -22,7 +21,7 @@ Flaticon icon font: Flaticon
 [class^="flaticon-"]:before, [class*=" flaticon-"]:before,
 [class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
 	font-family: Flaticon;
-	font-style: normal;
+    font-style: normal;
 }
 
 .flaticon-ribbon:before { content: "\f100"; }
