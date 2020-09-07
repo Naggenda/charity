@@ -3063,7 +3063,7 @@ Mission Area CSS
 }
 
 .mission-image {
-  background-image: url(../../assets/img/mission.png);
+  background-image: url("../assets/img/mission.png");
   background-size: cover;
   background-position: center center;
   height: 100%;
